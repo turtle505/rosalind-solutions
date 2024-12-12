@@ -10,7 +10,6 @@ def fib(n, k):
 
 
 with open("rosalind_fib.txt") as f:
-    n,k = f.readline().split(" ")
-    n = int(n)
-    k = int(k)
+    X = f.readline().split(" ")
+    n, k = map(int, X)
     print(fib(n, k))
