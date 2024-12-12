@@ -1,5 +1,5 @@
 # Rosalind
 
-Rosalind is a platform for learning bioinformatics and programming through problem solving. These are my solutions.
+Rosalind is a platform for learning bioinformatics and programming through problem solving.
 
-https://rosalind.info/problems/locations/
+You can explore the problems here: https://rosalind.info/problems/locations/
